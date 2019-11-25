@@ -44,12 +44,12 @@ Generic tree import:  Currently trees can only be imported from OrthoFinder and 
 
 ### Tissue Groups Color Code
 
-Root	rgba(210,180,140,0.5)
-Stem	rgba(204,153,0,0.5)
-Leaf	rgba(0,100,0,0.5)
-SAM	rgba(230,255,204,0.5)
-Flower	rgba(255,0,255,0.5)
-Pod	rgba(154,205,50,0.5)
-Seed	rgba(96,32,32,0.5)
+Root	rgba(210,180,140,0.5)  
+Stem	rgba(204,153,0,0.5)  
+Leaf	rgba(0,100,0,0.5)  
+SAM	rgba(230,255,204,0.5)  
+Flower	rgba(255,0,255,0.5)  
+Pod	rgba(154,205,50,0.5)  
+Seed	rgba(96,32,32,0.5)  
 
 
